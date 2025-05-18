@@ -1,4 +1,3 @@
-export async function getPhotos(url: string): Promise<any[]> {
-  // Función simulada de getPhotos
+export async function getPhotos(url: string): Promise<string[]> {
   return [];
 }

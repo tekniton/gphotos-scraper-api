@@ -1,3 +1,3 @@
-export * from './extractAlbum';
-export * from './getAlbum';
-export * from './getPhotos';
+export * from './extractAlbum.js';
+export * from './getAlbum.js';
+export * from './getPhotos.js';
